@@ -1,0 +1,19 @@
+
+
+
+function Navbar(){
+    return(
+        <nav>  
+            <a>Home</a>
+            <a>Education</a>
+            <a>Projects</a>
+            <a>Activities</a>
+            <a>Certifications</a>
+        </nav>
+
+
+
+    );
+}
+
+export default Navbar;

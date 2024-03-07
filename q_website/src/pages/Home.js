@@ -3,7 +3,8 @@
 
 function Home(){
     return(
-        <div className="Home-header">
+        <div class="text-3xl font-bold underline">
+           
            <h1>This is the homepage!</h1> 
         </div>
 
